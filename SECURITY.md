@@ -59,4 +59,5 @@ We greatly value the security research community.
 ## Contact
 For urgent security matters:
 📧 **[security@openstatestack.io](mailto:security@openstatestack.io)**
-🔒 PGP key: *\[to be published]*
+🔒 PGP key:  [Download](./oss-security-public.asc)
+Fingerprint: `FC34 D56C 1B92 68C2 6882 B61A 09F2 7015 6CA1 4441`
