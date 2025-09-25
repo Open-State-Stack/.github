@@ -18,3 +18,4 @@ Explore our [Documentation](https://docs.openstatestack.io) to learn about:
 
 ### License
 OpenStateStack is governed by the OpenStateStack Contribution and Restricted Use License (OSRUL). Contributions welcome, production deployment restricted to the Main Network.
+See [LICENSE](./LICENSE.md) for details.
