@@ -1,3 +1,5 @@
+SPDX-License-Identifier: LicenseRef-OSRUL-1.2
+
 # OpenStateStack Contribution and Restricted Use License (OSRUL)
 
 ## Version 1.2
